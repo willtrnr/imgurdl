@@ -1,0 +1,15 @@
+*.egg-info/
+*.gif
+*.jpg
+*.mp4
+*.png
+*.pyc
+*.pyd
+*.pyo
+*.rst
+*.sublime-*
+*.swp
+build/
+dist/
+venv/
+~*
