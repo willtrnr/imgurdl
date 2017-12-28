@@ -9,6 +9,7 @@
 *.rst
 *.sublime-*
 *.swp
+*.tar.gz
 build/
 dist/
 venv/
